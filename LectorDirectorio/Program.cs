@@ -2,7 +2,7 @@
 using System;
 
 class Program {
-    static void main()
+    static void Main(string[] args)
     {
         string? path;
         string[] carpetas; 
