@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\salus\\Desktop\\Taller1\\tl1-tp9-2025-Salumelian1\\LectorDirectorio\\LectorDirectorio.csproj",
+      "projectUniqueName": "C:\\Users\\salus\\OneDrive\\Escritorio\\Taller\\tl1-tp9-2025-Salumelian1\\LectorDirectorio\\LectorDirectorio.csproj",
       "projectName": "LectorDirectorio",
-      "projectPath": "C:\\Users\\salus\\Desktop\\Taller1\\tl1-tp9-2025-Salumelian1\\LectorDirectorio\\LectorDirectorio.csproj",
+      "projectPath": "C:\\Users\\salus\\OneDrive\\Escritorio\\Taller\\tl1-tp9-2025-Salumelian1\\LectorDirectorio\\LectorDirectorio.csproj",
       "packagesPath": "C:\\Users\\salus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\salus\\Desktop\\Taller1\\tl1-tp9-2025-Salumelian1\\LectorDirectorio\\obj\\",
+      "outputPath": "C:\\Users\\salus\\OneDrive\\Escritorio\\Taller\\tl1-tp9-2025-Salumelian1\\LectorDirectorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\salus\\AppData\\Roaming\\NuGet\\NuGet.Config"
