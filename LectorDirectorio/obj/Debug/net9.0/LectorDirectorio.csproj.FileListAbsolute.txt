@@ -1,0 +1,4 @@
+C:\Users\salus\Desktop\Taller1\tl1-tp9-2025-Salumelian1\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salus\Desktop\Taller1\tl1-tp9-2025-Salumelian1\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.AssemblyInfoInputs.cache
+C:\Users\salus\Desktop\Taller1\tl1-tp9-2025-Salumelian1\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.AssemblyInfo.cs
+C:\Users\salus\Desktop\Taller1\tl1-tp9-2025-Salumelian1\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.csproj.CoreCompileInputs.cache
