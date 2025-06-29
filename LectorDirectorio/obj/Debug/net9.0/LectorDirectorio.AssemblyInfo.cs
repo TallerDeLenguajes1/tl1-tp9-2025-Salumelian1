@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LectorDirectorio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4ddc9698ed3e5caecaa252cfeef02482d1de70e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c2574213b23f9c679c70cf6ae4fe629cae89b38")]
 [assembly: System.Reflection.AssemblyProductAttribute("LectorDirectorio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LectorDirectorio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
